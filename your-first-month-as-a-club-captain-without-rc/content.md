@@ -92,7 +92,7 @@ We can’t wait to #teachtheweb with you!
 
 #### Interview process
 
-After you apply to be Club Captain, you will be asked a few questions about the work you are currently going. The goal of the questions is to learn more about your interests and how the Mozilla Club program can support you in realizing those goals. It’s also a chance to raise questions and get answers. 
+After you apply to be Club Captain, you will be asked a few questions about the work you are currently doing. The goal of the questions is to learn more about your interests and how the Mozilla Club program can support you in realizing those goals. It’s also a chance to raise questions and get answers.
 
 #### Completing your pledge
 
